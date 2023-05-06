@@ -1,0 +1,93 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+	>
+
+<channel>
+	<title>Production &#8211; Tonya Crehan</title>
+	<atom:link href="http://localhost/tonyacrehan/portfolio-type/production/feed/?simply_static_page=136" rel="self" type="application/rss+xml" />
+	<link>https://tonrobo.github.io/wp-tonyacrehan</link>
+	<description>Portfolio</description>
+	<lastBuildDate>Thu, 09 Jan 2014 05:10:05 +0000</lastBuildDate>
+	<language>en-US</language>
+	<sy:updatePeriod>
+	hourly	</sy:updatePeriod>
+	<sy:updateFrequency>
+	1	</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=6.2</generator>
+	<item>
+		<title>New Balance</title>
+		<link>https://tonrobo.github.io/wp-tonyacrehan/portfolio/new-balance/</link>
+		
+		<dc:creator><![CDATA[tonyacrehan]]></dc:creator>
+		<pubDate>Tue, 07 Jan 2014 03:08:23 +0000</pubDate>
+				<guid isPermaLink="false">http://www.zil.sss.mybluehost.me/tonyacrehan//?post_type=portfolio&#038;p=185</guid>
+
+					<description><![CDATA[]]></description>
+										<content:encoded><![CDATA[]]></content:encoded>
+					
+		
+		
+			</item>
+		<item>
+		<title>MassBay View Brochure</title>
+		<link>https://tonrobo.github.io/wp-tonyacrehan/portfolio/massbay-view-brochure/</link>
+		
+		<dc:creator><![CDATA[tonyacrehan]]></dc:creator>
+		<pubDate>Mon, 06 Jan 2014 18:29:23 +0000</pubDate>
+				<guid isPermaLink="false">http://www.zil.sss.mybluehost.me/tonyacrehan//?post_type=portfolio&#038;p=174</guid>
+
+					<description><![CDATA[]]></description>
+										<content:encoded><![CDATA[]]></content:encoded>
+					
+		
+		
+			</item>
+		<item>
+		<title>Financial Planning Magazine</title>
+		<link>https://tonrobo.github.io/wp-tonyacrehan/portfolio/financial-planning-magazine-ad/</link>
+		
+		<dc:creator><![CDATA[tonyacrehan]]></dc:creator>
+		<pubDate>Mon, 06 Jan 2014 17:33:18 +0000</pubDate>
+				<guid isPermaLink="false">http://www.zil.sss.mybluehost.me/tonyacrehan//?post_type=portfolio&#038;p=167</guid>
+
+					<description><![CDATA[]]></description>
+										<content:encoded><![CDATA[]]></content:encoded>
+					
+		
+		
+			</item>
+		<item>
+		<title>MassBay Alumni Magazine</title>
+		<link>https://tonrobo.github.io/wp-tonyacrehan/portfolio/massbay-alumni-magazine/</link>
+		
+		<dc:creator><![CDATA[tonyacrehan]]></dc:creator>
+		<pubDate>Mon, 06 Jan 2014 01:14:33 +0000</pubDate>
+				<guid isPermaLink="false">http://www.zil.sss.mybluehost.me/tonyacrehan//?post_type=portfolio&#038;p=121</guid>
+
+					<description><![CDATA[]]></description>
+										<content:encoded><![CDATA[]]></content:encoded>
+					
+		
+		
+			</item>
+		<item>
+		<title>Holy Cross</title>
+		<link>https://tonrobo.github.io/wp-tonyacrehan/portfolio/holy-cross/</link>
+		
+		<dc:creator><![CDATA[tonyacrehan]]></dc:creator>
+		<pubDate>Mon, 06 Jan 2014 00:37:31 +0000</pubDate>
+				<guid isPermaLink="false">http://www.zil.sss.mybluehost.me/tonyacrehan//?post_type=portfolio&#038;p=117</guid>
+
+					<description><![CDATA[]]></description>
+										<content:encoded><![CDATA[]]></content:encoded>
+					
+		
+		
+			</item>
+	</channel>
+</rss>

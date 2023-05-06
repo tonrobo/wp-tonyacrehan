@@ -1,0 +1,45 @@
+/* Custom CSS */
+.zilla-gallery .slide-caption, .single-portfolio .entry-content {
+    background-color:  rgba(166, 166, 166, 0.7) !important;
+   background-image:  none; 
+}
+.portfolio-feed .portfolio > a {
+   background-image:  none;
+    display: block; /* tonya #f23e2f took out lines*/
+}
+
+
+/* Custom Accent Color */
+
+a,
+#logo:hover,
+.entry-title a:hover,
+button:hover,
+input[type='submit']:hover,
+input[type='submit']:focus,
+input[type='button']:hover,
+input[type='reset']:hover,
+#commentform .required,
+.page-navigation .nav-previous a:hover,
+.page-navigation .nav-next a:hover,
+#footer a,
+widget .current-cat > a,
+.widget .current-menu-item > a,
+.widget ul a:hover,
+.widget ul a.active-filter,
+.mobile-menu a:hover,
+.mobile-menu .current-cat > a,
+.mobile-menu .current-menu-item > a,
+.mobile-menu .current_page_item > a,
+.mobile-menu ul a:hover,
+#footer .zilla-tweet-widget .twitter-time-stamp:hover { color: #afc441; }
+
+.post-media a,
+.post-media .zilla-slide-prev:hover,
+.post-media .zilla-slide-next:hover,
+.portfolio-feed .portfolio > a,
+#toggle-footer { background-color: #afc441; }
+
+.zilla-gallery .slide-caption,
+.single-portfolio .entry-content { background-color: rgba(175,196,65,0.9); }
+
